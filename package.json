@@ -1,0 +1,19 @@
+{
+  "name": "k5054",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "lil-gui": "^0.18.2",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@splinetool/loader": "^0.9.420",
+    "three": "^0.155.0"
+  }
+}
