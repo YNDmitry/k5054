@@ -47,7 +47,6 @@ const light2 = new PointLight('#ffffff', 1, 500, 1)
 const light3 = new PointLight('#E0BEFF', 0.95, 5715, 1)
 const dirLight = new DirectionalLight('#ffffff', 1, 500)
 const ambientLight = new AmbientLight('#FFFFFF', 1.32);
-scene.add(light);
 dirLight.position.set(-33, 30, 5)
 dirLight.castShadow = true
 light.position.set(-1, 2, 1);

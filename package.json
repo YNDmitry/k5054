@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@splinetool/loader": "^0.9.420",
-    "three": "^0.155.0"
+    "three": "^0.155.0",
+    "three-mesh-bvh": "^0.6.3"
   }
 }
